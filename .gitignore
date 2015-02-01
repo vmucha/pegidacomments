@@ -1,0 +1,15 @@
+pegida1.*
+app/testout.json
+pegida2.*
+pegida3.*
+test.txt
+d3.v3.js
+d3.v3.min.js
+pegiga_korpus.txt
+app/pegida_korpus.txt
+node_modules
+dist
+.tmp
+.sass-cache
+bower_components
+test/bower_components
